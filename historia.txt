@@ -4,3 +4,5 @@ Javier es venezolano y tengo 42 años,
 nacio en barquisimeto.
 
 Hoy hablaremos de su historia
+
+Parece alto pero no es tan alto
